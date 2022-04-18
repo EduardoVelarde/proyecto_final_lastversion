@@ -1,0 +1,31 @@
+{
+  "name": "final_project_part_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoVelarde/final_project_part_2/issues"
+  },
+  "homepage": "https://github.com/EduardoVelarde/final_project_part_2#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "firebase-admin": "^10.0.2",
+    "log4js": "^6.4.1",
+    "moment": "^2.29.1",
+    "mongoose": "^6.1.1",
+    "nodemailer": "^6.7.2",
+    "passport": "^0.5.2",
+    "passport-local": "^1.0.0",
+    "uuid": "^8.3.2"
+  }
+}
